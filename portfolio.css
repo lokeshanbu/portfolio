@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(178, 176, 176);
+}
+a{
+    color: rgb(26, 18, 7);
+}
+.topbar{
+    margin-top: 30px;
+    margin-left: 1200px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    position: fixed;
+    top:0px;
+}
+.webname{
+    bottom: 720px;
+    position: absolute;
+    left: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+h2{
+    color: rgb(33, 26, 26);
+    font-size: 40px;
+}
+.Details{
+    height: 300px;
+    width: 743px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+.hello{
+    margin-top: 200px;
+    margin-left: 0px;
+}
+.name{
+    margin-left: 0px;
+}
+.image{
+    position: absolute;
+    top: 210px;
+    left: 950px;
+    height: 450px;
+    width: 450px;
+    border-radius: 100%;
+}
+.summary{
+    color: rgb(33, 25, 25);
+    font-size: 25px;
+}
+h3{
+    color: rgb(33, 24, 24);
+    font-size: 30px;
+}
+li{
+    color: rgb(31, 23, 23);
+    font-size: 18px;
+}
+.Edu{
+    height: 300px;
+    width: 743px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
